@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400px" src="https://github.com/loklok2/loklok2/blob/main/main_icon.gif"/>
+  <img width="600px" src="https://github.com/loklok2/loklok2/blob/main/main_icon.gif"/>
   <img src="https://github-readme-stats.vercel.app/api?username=loklok2&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loklok2&layout=compact" />
 </div>
