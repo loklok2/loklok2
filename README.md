@@ -15,3 +15,6 @@
 <!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/linux.png" alt="linux" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/> -->
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loklok2&show_icons=true&theme=radical)
